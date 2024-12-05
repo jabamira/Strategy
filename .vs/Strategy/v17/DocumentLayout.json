@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\lasergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\lasergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\minigan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\minigan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|c:\\users\\artem\\desktop\\c#\\strategy\\strategy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87599CF-C6E3-4513-809B-43A39A545A39}|Strategy\\Strategy.csproj|solutionrelative:strategy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Game.cs",
+              "RelativeDocumentMoniker": "Strategy\\Game.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Game.cs",
+              "RelativeToolTip": "Strategy\\Game.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:26:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Player.cs",
+              "RelativeDocumentMoniker": "Strategy\\Player.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Player.cs",
+              "RelativeToolTip": "Strategy\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:26:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaserGun.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\LaserGun.cs",
+              "RelativeDocumentMoniker": "Strategy\\LaserGun.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\LaserGun.cs",
+              "RelativeToolTip": "Strategy\\LaserGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:25:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minigan.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Minigan.cs",
+              "RelativeDocumentMoniker": "Strategy\\Minigan.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Minigan.cs",
+              "RelativeToolTip": "Strategy\\Minigan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:24:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Sword.cs",
+              "RelativeDocumentMoniker": "Strategy\\Sword.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Sword.cs",
+              "RelativeToolTip": "Strategy\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:24:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Axe.cs",
+              "RelativeDocumentMoniker": "Strategy\\Axe.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Axe.cs",
+              "RelativeToolTip": "Strategy\\Axe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:23:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Bow.cs",
+              "RelativeDocumentMoniker": "Strategy\\Bow.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Bow.cs",
+              "RelativeToolTip": "Strategy\\Bow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:23:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\IWeapon.cs",
+              "RelativeDocumentMoniker": "Strategy\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\IWeapon.cs",
+              "RelativeToolTip": "Strategy\\IWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:22:51.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Strategy\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:22:32.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
